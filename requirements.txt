@@ -1,0 +1,4 @@
+ailog
+scikit-learn
+numpy
+nltk
